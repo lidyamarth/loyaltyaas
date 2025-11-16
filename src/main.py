@@ -1,7 +1,7 @@
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 import uuid
-from domain import Membership, TransaksiDTO, AturanDTO, HadiahDTO
+from .domain import Membership, TransaksiDTO, AturanDTO, HadiahDTO
 
 app = FastAPI(title="Loyalty Core API")
 membership_db = {}
