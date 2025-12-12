@@ -35,7 +35,7 @@ Layanan ini telah di-*deploy* dan dapat diakses secara publik melalui platform *
 Pastikan telah menginstal **[uv](https://github.com/astral-sh/uv)** (Package manager Python) atau Python 3.13+.
 ### 1. Clone Repository
 ```bash
-git clone [https://github.com/lidyamarth/loyaltyaas.git](https://github.com/lidyamarth/loyaltyaas.git)
+git clone https://github.com/lidyamarth/loyaltyaas
 ```
 
 ### 2. Install Dependencies
