@@ -130,7 +130,7 @@ Berikut adalah contoh format data (*payload*) untuk setiap endpoint yang membutu
 Endpoint ini menggunakan format **Form Data (`x-www-form-urlencoded`)**, bukan JSON.
 * **Body:**
 | Key        | Value        |
-|------------|--------------|
+|:-----------|:------------|
 | `username` | `admin`      |
 | `password` | `rahasia123` |
 
