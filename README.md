@@ -128,11 +128,11 @@ Berikut adalah contoh format data (*payload*) untuk setiap endpoint yang membutu
 
 ### Login (Autentikasi)
 Endpoint ini menggunakan format **Form Data (`x-www-form-urlencoded`)**, bukan JSON.
-* **Body:**
+**Body:**
 | Key      | Value      |
 |----------|------------|
-| username | admin      |
-| password | rahasia123 |
+| `username` | `admin`      |
+| `password` | `rahasia123` |
 
 ### Create Membership
 Mendaftarkan pelanggan baru untuk mendapatkan `membershipId`.
